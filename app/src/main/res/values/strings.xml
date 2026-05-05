@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pixels</string>
+    <string name="search_hint">Search photos…</string>
+    <string name="offline_banner">Showing cached photos • Offline</string>
+    <string name="no_photos_title">No photos found</string>
+    <string name="no_photos_subtitle">Try a different search term</string>
+    <string name="download_started">Download started</string>
+    <string name="share_text">Check out this photo by %1$s: %2$s</string>
+    <string name="share_text_template">Check out this photo by %1$s: %2$s</string>
+    <string name="photo_dimensions">%1$d × %2$d</string>
+    <string name="retry">Retry</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+</resources>

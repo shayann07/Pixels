@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Pixels" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#1B1B1F</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#E4E1E6</item>
+        <item name="colorOnPrimaryContainer">#1B1B1F</item>
+        <item name="colorSurface">#FFFBFF</item>
+        <item name="colorOnSurface">#1B1B1F</item>
+        <item name="colorSurfaceVariant">#E7E0EB</item>
+        <item name="colorOnSurfaceVariant">#49454E</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>
